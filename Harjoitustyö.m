@@ -1,6 +1,3 @@
-%% Pakollinen osio
-% Halonen Hilppa
-% Julkunen Sarianne
 
 % Funktiotiedostoa (DY) kutsutaan vaiheessa kolme
 %% vaihe 1
