@@ -1,7 +1,5 @@
 rm(list = ls())
 #dev.off()
-# ctrl + n + l puhdistaa console ikkunan
-# ctrl + enter => run
 
 #install.packages("markovchain", dependencies=TRUE)
 #install.packages("matlab")
