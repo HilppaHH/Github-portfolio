@@ -326,7 +326,7 @@ plt.xlabel('Duration Category')
 plt.ylabel('Frequency')
 plt.show()
 
-# täääääääääääääääääääääääääääääääääääääääääääääääääääääääää
+# 
 plt.figure(figsize=(8, 8))
 sns.scatterplot(x='distance_km', y='calories_kcal', hue='sport', data=df_res)
 plt.title('Scatter Plot of Distance vs. Calories')
