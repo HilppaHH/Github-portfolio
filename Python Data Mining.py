@@ -1,5 +1,4 @@
-"Hilppa  Halonen"
-"0566437"
+
 import pandas as pd
 import numpy as np
 
